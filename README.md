@@ -5,11 +5,11 @@ git clone https://github.com/MuhammadJunaidHashmi/personalityTest.git
 ```
 
 # Screenshots
+![img1](https://github.com/MuhammadJunaidHashmi/airline-cargo-management-system/assets/91802755/4b70a1ca-77b4-48fa-8fe3-8f543247350f)
+![img2](https://github.com/MuhammadJunaidHashmi/airline-cargo-management-system/assets/91802755/2005f013-cd90-44d3-85c7-85650f515736)
+![img3](https://github.com/MuhammadJunaidHashmi/airline-cargo-management-system/assets/91802755/656c385d-2cbe-4acf-9a48-436047812821)
+![img4](https://github.com/MuhammadJunaidHashmi/airline-cargo-management-system/assets/91802755/05b640fd-9dd8-41ba-b989-cc13cb272027)
+![img5](https://github.com/MuhammadJunaidHashmi/airline-cargo-management-system/assets/91802755/7afd313d-c788-4c76-8f0e-d3fbef89df33)
 
-![start](https://github.com/MuhammadJunaidHashmi/blob/master/Screenshots/img1.jpg)
 
-![profile](https://github.com/MuhammadJunaidHashmi/personalityTest/assets/91802755/f5960856-259c-4603-b8fe-e6b6794f7ae8)
 
-![login](https://github.com/MuhammadJunaidHashmi/personalityTest/assets/91802755/d2ae95a5-ddfa-4d4a-abba-851f2f9dafb7)
-
-![form](https://github.com/MuhammadJunaidHashmi/personalityTest/assets/91802755/8839c854-e34b-48f5-b932-beea47dcdbde)
