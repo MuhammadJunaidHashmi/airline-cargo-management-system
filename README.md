@@ -1,7 +1,7 @@
 # airline-cargo-management-systems
 
 ```sh
-git clone https://github.com/MuhammadJunaidHashmi/personalityTest.git
+git clone https://github.com/MuhammadJunaidHashmi/airline-cargo-management-system.git
 ```
 
 # Screenshots
